@@ -1,0 +1,286 @@
+@font-face {
+    font-family: 'Codec Pro Fat';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-FatItalic.eot');
+    src: local('Codec Pro Fat Italic'), local('CodecPro-FatItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-FatItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-FatItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-FatItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-FatItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ThinItalic.eot');
+    src: local('Codec Pro Thin Italic'), local('CodecPro-ThinItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ThinItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ThinItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro Fat';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Fat.eot');
+    src: local('Codec Pro Fat'), local('CodecPro-Fat'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Fat.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Fat.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Fat.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Fat.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBoldItalic.eot');
+    src: local('Codec Pro ExtraBold Italic'), local('CodecPro-ExtraBoldItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBoldItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBoldItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-BoldItalic.eot');
+    src: local('Codec Pro Bold Italic'), local('CodecPro-BoldItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-BoldItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-BoldItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-BoldItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro News';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-News.eot');
+    src: local('Codec Pro News'), local('CodecPro-News'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-News.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-News.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-News.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-News.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Heavy.eot');
+    src: local('Codec Pro Heavy'), local('CodecPro-Heavy'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Heavy.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Heavy.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Heavy.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Thin.eot');
+    src: local('Codec Pro Thin'), local('CodecPro-Thin'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Thin.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Thin.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro Ultra';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraItalic.eot');
+    src: local('Codec Pro Ultra Italic'), local('CodecPro-UltraItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-HeavyItalic.eot');
+    src: local('Codec Pro Heavy Italic'), local('CodecPro-HeavyItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-HeavyItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-HeavyItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-HeavyItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Bold.eot');
+    src: local('Codec Pro Bold'), local('CodecPro-Bold'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Bold.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Bold.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Bold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro News';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-NewsItalic.eot');
+    src: local('Codec Pro News Italic'), local('CodecPro-NewsItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-NewsItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-NewsItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-NewsItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-NewsItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Light.eot');
+    src: local('Codec Pro Light'), local('CodecPro-Light'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Light.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Light.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBold.eot');
+    src: local('Codec Pro ExtraBold'), local('CodecPro-ExtraBold'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBold.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBold.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro Ultra';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Ultra.eot');
+    src: local('Codec Pro Ultra'), local('CodecPro-Ultra'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Ultra.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Ultra.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-Ultra.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro UltraBlack';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlackItalic.eot');
+    src: local('Codec Pro UltraBlack Italic'), local('CodecPro-UltraBlackItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlackItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlackItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro UltraBlack';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlack.eot');
+    src: local('Codec Pro UltraBlack'), local('CodecPro-UltraBlack'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlack.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlack.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlack.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-UltraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraLightItalic.eot');
+    src: local('Codec Pro ExtraLight Italic'), local('CodecPro-ExtraLightItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraLightItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraLightItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-LightItalic.eot');
+    src: local('Codec Pro Light Italic'), local('CodecPro-LightItalic'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-LightItalic.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-LightItalic.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/CodecPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Blacker Pro Display l';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-LtIt.eot');
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-LtIt.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-LtIt.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-LtIt.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-LtIt.ttf') format('truetype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-LtIt.svg#BlackerProDis-LtIt') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blacker Pro Display Condensed';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProCondDis-Lt.eot');
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProCondDis-Lt.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProCondDis-Lt.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProCondDis-Lt.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProCondDis-Lt.ttf') format('truetype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProCondDis-Lt.svg#BlackerProCondDis-Lt') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blacker Pro Display b';
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-Bd.eot');
+    src: url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-Bd.eot?#iefix') format('embedded-opentype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-Bd.woff2') format('woff2'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-Bd.woff') format('woff'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-Bd.ttf') format('truetype'),
+        url('../../../../../../../Users/Mushvig Manafli/Desktop/qarabag main/assets/fonts/BlackerProDis-Bd.svg#BlackerProDis-Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blacker Pro Display Condensed';
+    src: url('../fonts/BlackerProCondDis-Rg.eot');
+    src: url('../fonts/BlackerProCondDis-Rg.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlackerProCondDis-Rg.woff2') format('woff2'),
+        url('../fonts/BlackerProCondDis-Rg.woff') format('woff'),
+        url('../fonts/BlackerProCondDis-Rg.ttf') format('truetype'),
+        url('../fonts/BlackerProCondDis-Rg.svg#BlackerProCondDis-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

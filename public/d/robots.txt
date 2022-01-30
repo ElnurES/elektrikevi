@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page18195368.html
+Disallow: /header
+Disallow: /page18196174.html
+Disallow: /footer
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+Sitemap: http://project3870897.tilda.ws/sitemap.xml
+Host: project3870897.tilda.ws

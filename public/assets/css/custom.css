@@ -1,0 +1,55 @@
+#add-chart-detail{
+    float: right;
+    border: 1px solid #9c27b0;
+    padding: 5px 10px;
+    color: #9c27b0;
+    cursor: pointer;
+}
+#add-chart-detail:hover{
+    border: 1px solid #fff;
+    background-color: #9c27b0;
+    color: #fff;
+}
+
+#delete-chart-detail{
+    float: right;
+    border: 1px solid #ff0000;
+    padding: 5px 10px;
+    color: #ff0000;
+    cursor: pointer;
+}
+#delete-chart-detail:hover{
+    border: 1px solid #fff;
+    background-color: #ff0000;
+    color: #fff;
+}
+.chart-detail-block-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.chart-detail-block:first-child{
+    margin-bottom: 30px;
+}
+.chart-detail-block-content .form-group{
+    width: 48%;
+}
+.qrafik-graphic{
+    display: none;
+}
+
+.show-chart {
+    display: block;
+}
+
+.hide-chart {
+    display: none;
+}
+
+.search-form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+}

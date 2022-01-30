@@ -1,0 +1,439 @@
+@media(max-width:1300px) {
+    .banner_regions_links ul li {
+        width: 100px
+    }
+
+    .banner_regions_links ul li a {
+        padding: 0 5px
+    }
+}
+
+@media(max-width:1200px) {
+    .banner_regions_links ul {
+        flex-wrap: wrap
+    }
+
+
+    .banner_regions_title h2 {
+        font-size: 75px;
+        letter-spacing: .11em
+    }
+
+    .region_imagelist .gallery_item:nth-child(1) {
+        grid-area: 1/1/3/3;
+        height: 280px
+    }
+
+    .region_imagelist .gallery_item:nth-child(2) {
+        grid-area: 1/3/2/4;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(3) {
+        grid-area: 2/3/3/4;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(4) {
+        grid-area: 1/4/2/5;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(5) {
+        grid-area: 2/4/3/5;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(6) {
+        grid-area: 3/1/4/2;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(7) {
+        grid-area: 4/1/5/2;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(8) {
+        grid-area: 3/2/5/4;
+        height: 280px
+    }
+
+    .region_imagelist .gallery_item:nth-child(9) {
+        grid-area: 3/4/4/5;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(10) {
+        grid-area: 4/4/5/5;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(11) {
+        grid-area: 5/1/6/2;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(12) {
+        grid-area: 5/2/6/3;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(13) {
+        grid-area: 6/1/7/2;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(14) {
+        grid-area: 6/2/7/3;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(15) {
+        grid-area: 5/3/7/5;
+        height: 280px
+    }
+
+    .region_imagelist .gallery_item:nth-child(16) {
+        grid-area: 7/1/8/2;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(17) {
+        grid-area: 8/1/9/2;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(18) {
+        grid-area: 7/2/9/4;
+        height: 280px
+    }
+
+    .region_imagelist .gallery_item:nth-child(19) {
+        grid-area: 7/4/8/5;
+        height: 140px
+    }
+
+    .region_imagelist .gallery_item:nth-child(20) {
+        grid-area: 8/4/9/5;
+        height: 140px
+    }
+}
+
+@media(max-width:1100px) {
+    .banner_regions_links ul {
+        padding: 0 90px
+    }
+}
+
+@media(min-width:991px) {
+    .catalog_first_banner .cmc_main_title {
+        display: none
+    }
+
+    .catalog-swiper-box {
+        display: none
+    }
+}
+
+@media(max-width:991px) {
+    .catalog-third-list-villages {
+        margin-top: 33px
+    }
+
+    .ethnic_image {
+        width: auto;
+    }
+
+    .win-karabakh .row {
+        overflow: hidden;
+    }
+
+    .tab_gallery_cat {
+        margin-bottom: 0 !important
+    }
+
+    .region_gallery_tablinks {
+        margin: 42px 0 33px
+    }
+
+
+    .tab_cat_gallery {
+        display: flex;
+        padding: 0 20px;
+    }
+
+    .region_imagelist .gallery_item {
+        height: 120px !important;
+        width: calc(50% - 7px);
+        padding: 0;
+        margin-bottom: 14px;
+    }
+
+    .region_imagelist .gallery_item:nth-child(even) {
+        margin-left: 14px;
+    }
+
+    .catalog-swiper-box {
+        display: unset !important
+    }
+
+    .catalog_first_banner .cmc_main_title {
+        display: block;
+        font-size: 55px;
+        margin-bottom: 40px
+    }
+
+    .catalog_banner_section:not(.catalog_first_banner) .banner_regions_links ul li a .brl_image {
+        width: 70px;
+        height: 70px
+    }
+
+    .catalog_banner_section:not(.catalog_first_banner) .banner_regions_links ul li {
+        width: 70px;
+        margin-right: 10px
+    }
+
+    header {
+        top: 20px
+    }
+
+    .catalog_first_banner .banner_regions_links ul {
+        padding: 0
+    }
+
+    .catalog_main_img {
+        display: none
+    }
+
+    .banner_regions {
+        margin-top: 0
+    }
+
+    .catalog_banner_section {
+        margin-top: 100px
+    }
+
+    .catalog_first_banner .banner_regions_title h2 {
+        font-size: 60px
+    }
+
+    .catalog_content_more {
+        display: block;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        transform: translateX(-50%);
+        background-color: transparent;
+        margin-top: 15px;
+        font-size: 16px;
+        font-weight: 500;
+        position: relative;
+    }
+
+    .catalog_mainpage_content {
+        margin-top: 15px !important;
+        padding-top: 35px;
+    }
+
+    .catalog_mainpage_content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .lng-az {
+        margin-top: 6px;
+    }
+
+    .cmc_main_title {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .cmc_content {
+        font-size: 16px !important;
+        height: 76px;
+        overflow: hidden;
+    }
+
+    .cmc_content p,
+    .cmc_content span {
+        font-size: 16px !important;
+    }
+
+    .catalog-main-galery {
+        display: none
+    }
+
+    .region_main_imagelist {
+        display: flex;
+        padding: 0 15px;
+        padding-right: 5px;
+    }
+
+    .region_main_imagelist a p {
+        font-size: 12px;
+        left: 10px;
+        bottom: 10px;
+    }
+
+    .region-villages_list {
+        margin-top: 19px
+    }
+
+    .cmc_content {
+        margin: 0
+    }
+
+    #catalog-salvatorre[data-columns]::before {
+        content: '3 .column.size-1of3'
+    }
+
+    .size-1of3 {
+        width: calc(100% / 3)
+    }
+
+    .region-class h2 {
+        font-size: 50px;
+        line-height: 50px;
+        margin-bottom: 28px
+    }
+
+    .banner_regions_title h2 {
+        font-size: 50px;
+        line-height: 50px;
+        margin-bottom: 28px;
+        letter-spacing: 0
+    }
+
+    .banner_regions_title h3 {
+        font-size: 30px;
+        line-height: 100%
+    }
+}
+
+@media(max-width:768px) {
+    .catalog_first_banner .banner_regions_title h2 {
+        display: none
+    }
+
+    .win-karabakh .row {
+        overflow: visible;
+    }
+
+    .villages_list {
+        margin-bottom: 0
+    }
+
+    .region-class h2 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 24px
+    }
+
+    .banner_regions_title h2 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 24px
+    }
+
+    .banner_regions_title h3 {
+        font-size: 24px;
+        line-height: 100%
+    }
+
+    .catalog_banner_section:not(.catalog_first_banner) .banner_regions_links ul {
+        padding: 0 0 15px;
+        flex-wrap: nowrap;
+        justify-content: unset;
+        overflow-x: scroll
+    }
+
+    .catalog_banner_section:not(.catalog_first_banner) .banner_regions_links {
+        margin-left: 15px
+    }
+
+    .catalog_banner_section:not(.catalog_first_banner) .banner_regions_links ul li a .brl_image {
+        width: 66px;
+        height: 66px
+    }
+
+    .catalog_banner_section:not(.catalog_first_banner) .banner_regions_links ul li {
+        width: 66px
+    }
+}
+
+@media(max-width:576px) {
+    .catalog-swiper-box {
+        padding-left: 15px
+    }
+
+    .catalog-swiper-box .swiper-slide {
+        max-height: 220px;
+        height: unset !important
+    }
+
+    .catalog-swiper-box .swiper-slide img {
+        max-height: 220px !important;
+        height: unset !important;
+        min-height: 150px !important
+    }
+
+    #catalog-salvatorre[data-columns]::before {
+        content: '2 .column.size-1of2'
+    }
+
+    .size-1of2 {
+        width: calc(100% / 2)
+    }
+
+    .region-class h2 {
+        font-size: 34px;
+        line-height: 34px;
+        margin-bottom: 18px padding:0 15px
+    }
+
+    .banner_regions_title h2 {
+        font-size: 34px;
+        line-height: 34px;
+        margin-bottom: 18px padding:0 15px
+    }
+
+    .banner_regions_title h3 {
+        font-size: 18px;
+        line-height: 100%
+    }
+}
+
+@media(max-width:420px) {
+    #catalog-salvatorre[data-columns]::before {
+        content: '1 .column.size-1of1'
+    }
+
+    .size-1of1 {
+        width: 80%;
+        margin: auto
+    }
+
+    .lng-az {
+        margin-right: 0;
+    }
+
+    .village_box .main_letter {
+        margin-bottom: 2px
+    }
+}
+
+@media(max-width:360px) {
+    .catalog_first_banner .banner_regions_links ul li {
+        width: 100px
+    }
+}
+
+@media(max-height:450px) {
+    .mobile_navbar ul {
+        margin-top: 50px;
+    }
+}
